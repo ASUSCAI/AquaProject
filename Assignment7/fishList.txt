@@ -1,0 +1,7 @@
+fish1;fish1.png;10.00
+fish2;fish2.png;12.00
+fish3;fish3.png;10.50
+fish4;fish4.png;4.00
+fish5;fish5.png;50.00
+fish6;fish6.png;40.00
+fish7;fish7.png;13.00
