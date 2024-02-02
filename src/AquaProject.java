@@ -249,7 +249,7 @@ public class AquaProject extends GraphicsProgram {
 				println("moving");
 				fishes.get(index).move(20, 0);
 				repaint();
-				pause(200);	
+				pause(200);
 			}
 		} else if(currentJob.equals("New Fish")) {
 			String filename = getFileName();	
